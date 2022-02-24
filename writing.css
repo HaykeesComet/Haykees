@@ -1,0 +1,68 @@
+body {
+	background: url("https://i.imgur.com/33HQa95.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	font-family: 'Caveat', cursive;
+	width: 80%;
+	max-width: 700px;
+	padding: 20px;
+	border-left: 5px solid #194D00;
+	border-right: 5px solid #194D00;
+	margin: 20px auto;
+}
+
+h2 {
+	font-family: 'Bangers', cursive;
+	font-size: 2.0rem;
+	color: #B33B00;
+}
+
+p{
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+}
+
+hr {
+	color: #194D00;
+	opacity: 0.3;
+}
+
+.firstpost {
+	margin-top: 30px;
+}
+
+.posts {
+	margin-top: 30px;
+}
+
+.date {
+	font-size: 21px;
+	font-weight: bold;
+	color: #194D00;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+}
+
+.pbrdside {
+	border-left: 2px solid #B33B00;
+	padding-left: 5px;
+}
+
+.photo1 {
+	float: left;
+	width: 170px;
+	border: 2px solid #194D00;
+	border-radius: 6px;
+	margin: 5px 5px 0px 0px;
+}
+
+.photo2 {
+	float: right;
+	width: 220px;
+	border: 2px solid #194D00;
+	border-radius: 6px;
+	margin: 5px 0px 5px 5px;
+}
+
